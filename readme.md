@@ -26,7 +26,6 @@ SignLanguageTranslator/
 ├── app.py                      # Main Streamlit app
 ├── sign_model.pt               # Trained Transformer-based gesture classifier
 ├── labels.txt                  # Label file (0 to 1999)
-├── yolov8n.pt                  # YOLOv8 model for hand detection
 └── README.md                   # This file
 ```
 
