@@ -27,10 +27,6 @@ SignLanguageTranslator/
 ├── sign_model.pt               # Trained Transformer-based gesture classifier
 ├── labels.txt                  # Label file (0 to 1999)
 ├── yolov8n.pt                  # YOLOv8 model for hand detection
-├── utils/
-│   └── detection.py            # YOLOv8 inference code
-├── data/
-│   └── WLASL_v0.3.json         # Metadata for training
 └── README.md                   # This file
 ```
 
