@@ -1,5 +1,3 @@
-Absolutely! Here's an updated and detailed `README.md` with **"How to Use the Project"** instructions, including setup, model usage, and app execution.
-
 ---
 
 # 🧠 Real-Time Sign Language Translation System
